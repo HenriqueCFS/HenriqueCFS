@@ -3,9 +3,7 @@
 
 - 🔭 I’m currently working at **Se7i**
 
-- 🌱 I’m currently learning **NextJS** and **React Native**
-
-- 💬 Ask me about **React**, **PHP**, **Python** and **SQL**
+- 💬 Ask me about **JavaScript**, **PHP**, **Python** and **React Framework**
 
 - 📫 Reach me at **henrique_cesar21@hotmail.com or rickcesar21@gmail.com**
 
