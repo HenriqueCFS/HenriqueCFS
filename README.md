@@ -1,6 +1,6 @@
 <h1 align="center">Hi, i'm Henrique Silva</h1>
 <div style="backgroundColor: 'red">
-<h3 align="center">A Tech enthusiast who loves programming.</h3>
+<h3 align="center">A Tech enthusiast.</h3>
 
 - 🔭 I’m currently working at **Se7i**
 
