@@ -8,7 +8,7 @@
 
 - 💬 Ask me about **React, PHP, Python and SQL**
 
-- 📫 How to reach me **henrique_cesar21@hotmail.com or rickcesar21@gmail.com**
+- 📫 Reach me at **henrique_cesar21@hotmail.com or rickcesar21@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
