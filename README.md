@@ -1,7 +1,7 @@
 <h1 align="center">Hi, i'm Henrique Silva</h1>
 <div style="backgroundColor: 'red">
 
-- 🔭 I’m currently working at **Se7i**
+- 🔭 I’m currently working at **MPloyer Advisor**
 
 - 💬 Ask me about **JavaScript**, **PHP**, **Python** and **React Framework**
 
